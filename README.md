@@ -1,2 +1,2 @@
 # LDA-algorithm
-- Python code for linear discriminant analysis (LDA).
+- Python code for Fisher linear discriminant analysis (LDA).
